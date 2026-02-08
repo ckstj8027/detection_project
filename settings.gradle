@@ -1,0 +1,5 @@
+rootProject.name = 'demo'
+
+include 'community-server'
+include 'admin-server'
+include 'profanity-server'
